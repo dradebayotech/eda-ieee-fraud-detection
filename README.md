@@ -1,5 +1,5 @@
 # 🛡️ EDA PROJECT 1
-# 🛡️ Exploratory Data Analysis (EDA) on IEEE-CIS Fraud Detection Dataset
+# Exploratory Data Analysis (EDA) on IEEE-CIS Fraud Detection Dataset
 
 ## 📌 Project Overview
 This project explores the **IEEE-CIS Fraud Detection dataset**, which contains anonymized credit card transaction data. The primary goal of this analysis is to understand the structure of the dataset, identify patterns, visualize relationships, and extract insights that can be useful in fraud detection.
