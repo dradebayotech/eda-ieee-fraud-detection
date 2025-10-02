@@ -50,9 +50,9 @@ This work is part of my **data science portfolio**, showcasing my transition fro
 ---
 
 ## 📁 Files in This Repository
-- `EDA_IEEE_FraudDetection.ipynb`: Jupyter notebook with the full analysis
+- `EDA Project1.ipynb`: Jupyter notebook with the full analysis inside `notebooks/`
 - `images/`: Folder containing exported plots for README
-- `data/`: (optional) data directory, or dataset link below
+- `data/`: dataset link below
 
 ---
 
