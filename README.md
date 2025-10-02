@@ -1,3 +1,4 @@
+# 🛡️ EDA PROJECT 1
 # 🛡️ Exploratory Data Analysis (EDA) on IEEE-CIS Fraud Detection Dataset
 
 ## 📌 Project Overview
