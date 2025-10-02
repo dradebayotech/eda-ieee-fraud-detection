@@ -43,11 +43,9 @@ This work is part of my **data science portfolio**, showcasing my transition fro
 
 ## 📸 Sample Visuals from the Notebook
 
-Here are some key plots generated in this notebook:
-
-| Fraud vs. Non-Fraud Distribution | Correlation Heatmap |
-|----------------------------------|---------------------|
-| ![Fraud Distribution](images/fraud_distribution.png) | ![Heatmap](images/heatmap.png) |
+| Fraud vs. Non-Fraud Class Distribution | Transaction Amounts | Correlation Heatmap |
+|----------------------------------------|---------------------|---------------------|
+| ![Fraud Distribution](images/fraud_distribution.png) | ![Transaction Amount](images/transaction_amount_distribution.png) | ![Heatmap](images/heatmap.png) |
 
 ---
 
